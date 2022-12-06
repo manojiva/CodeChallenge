@@ -1,0 +1,1 @@
+You are to implement a function in Java or Python which reads a text file and counts how often words occur in that text file
